@@ -3,7 +3,6 @@ package httpclient
 
 import (
 	"fmt"
-	"log"
 	"net/http"
 	"io"
 	"bytes"
